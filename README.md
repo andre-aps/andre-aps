@@ -6,8 +6,6 @@
 - ⚡ I'm always looking for new challenges
 - 🎮 I like to play video games
 
-<br>
-
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/java_original_logo_icon_146458.png" />][java]

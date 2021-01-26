@@ -16,8 +16,6 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/gitkraken-icon.png" />][gitkraken]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/dbeaver-icon.png" />][dbeaver]
 
-<br>
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.icon-icons.com/icons2/2037/PNG/128/in_linked_linkedin_media_social_icon_124259.png" />][linkedin]

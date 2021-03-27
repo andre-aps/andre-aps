@@ -21,9 +21,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.icon-icons.com/icons2/2037/PNG/128/in_linked_linkedin_media_social_icon_124259.png" />][linkedin]
+[<img align="left" alt="Linkedin" width="22px" src="https://cdn.icon-icons.com/icons2/2037/PNG/128/in_linked_linkedin_media_social_icon_124259.png" />][linkedin]
+
+[<img align="left" alt="Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-256.png" />][twitter]
 
 [linkedin]: https://www.linkedin.com/in/andre-aps/
+[twitter]: https://twitter.com/andre_apss
 [java]: https://www.oracle.com/br/java/technologies/
 [spring]: https://spring.io/
 [postgree]:https://www.postgresql.org/

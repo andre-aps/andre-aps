@@ -5,6 +5,7 @@
 - 📚 I'm constantly learning
 - ⚡ I'm always looking for new challenges
 - 🎮 I like to play video games
+<br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-aps&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

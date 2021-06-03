@@ -19,7 +19,7 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/72/visual-studio-code-2019.png" />][vscode]
 [<img align="left" alt="Dbeaver" width="26px" src="https://git-fork.com/images/logo.png" />][fork]
 [<img align="left" alt="Dbeaver" width="26px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/dbeaver-icon.png" />][dbeaver]
-<br><br><br>
+<br><br>
 
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-aps&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andre-aps&theme=dark&hide=contribs,stars,issues)](https://github.com/anuraghazra/github-readme-stats) |
 |:-:|:-:|

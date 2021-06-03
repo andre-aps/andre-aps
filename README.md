@@ -5,7 +5,7 @@
 ### Hi there, I'm André 👋
 
 - 🎓 I'm graduated in Systems Analysis and Development
--	💻 I'm currently working at [Multi Portal](https://www.mportal.com.br) as a Java developer
+-	💻 I'm currently working at [Multi Portal Software Hardware](https://www.mportal.com.br) as a Java developer
 - 📚 I'm constantly learning
 - ⚡ I'm always looking for new challenges
 

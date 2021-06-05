@@ -26,7 +26,7 @@
 [<img align="left" alt="javascript" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" />][javascript]
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-aps&layout=compact&theme=graywhite&bg_color=0,C0C0C0,C0C0C0)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-aps&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/andre-aps/
 [twitter]: https://twitter.com/andre_apss

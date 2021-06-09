@@ -9,6 +9,7 @@
 - I'm currently working at [Multi Portal Software & Hardware](https://www.mportal.com.br) as a Java developer
 - I'm constantly learning
 - I'm always looking for new challenges
+- I like to share knowledge
 
 ### Languages and Tools
 

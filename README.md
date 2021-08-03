@@ -14,7 +14,7 @@
 ### Languages and Tools
 
 [<img align="left" alt="Java" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/java_original_logo_icon_146458.png" />][java]
-[<img align="left" alt="Spring" width="26px" src="https://symbols.getvecta.com/stencil_96/68_spring-framework-icon.f901b1016d.svg" />][spring]
+[<img align="left" alt="Spring" width="26px" src="https://img.icons8.com/color/48/000000/spring-logo.png" />][spring]
 [<img align="left" alt="PostgreSQL" width="26px" src="https://img.icons8.com/color/2x/postgreesql.png" />][postgree]
 [<img align="left" alt="Git" width="26px" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-128.png" />][git]
 [<img align="left" alt="Eclipse IDE" width="26px" src="https://cdn.icon-icons.com/icons2/1381/PNG/128/eclipse_94656.png" />][eclipse]

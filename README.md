@@ -20,7 +20,7 @@
 [<img align="left" alt="Eclipse IDE" width="26px" src="https://cdn.icon-icons.com/icons2/1381/PNG/128/eclipse_94656.png" />][eclipse]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/72/visual-studio-code-2019.png" />][vscode]
 [<img align="left" alt="Fork" width="26px" src="https://git-fork.com/images/logo.png" />][fork]
-[<img align="left" alt="Dbeaver" width="26px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/dbeaver-icon.png" />][dbeaver]
+[<img align="left" alt="Dbeaver" width="26px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/dbeaver_94555.png" />][dbeaver]
 [<img align="left" alt="Gitlab" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" />][gitlab]
 [<img align="left" alt="Html" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" />][html]
 [<img align="left" alt="Css" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" />][css]

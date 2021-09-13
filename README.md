@@ -6,7 +6,7 @@
 ### Hi there, I'm André
 
 - I'm graduated in Systems Analysis and Development
-- I'm currently working at [PicPay](https://www.picpay.com/) as a Java developer
+- I'm currently working at [PicPay Serviços S.A](https://www.picpay.com/) as a Java developer
 - I'm constantly learning
 - I'm always looking for new challenges
 - I like to share knowledge
